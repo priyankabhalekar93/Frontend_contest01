@@ -1,0 +1,38 @@
+h1 {
+    font-weight: 400;
+    font-size: 64px;
+}
+
+input {
+    border: 0cm;
+    background-color: transparent;
+}
+
+body {
+    background-color: black;
+    color: white;
+    ;
+}
+
+.btn {
+    background-color: white;
+    border: none;
+    color: black;
+    width: 200px;
+    height: 45px;
+    left: 198px;
+    top: 808px;
+    font-size: 25px;
+}
+
+.box1 {
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    margin-top: 154;
+    margin-Left: 202px;
+}
+
+label {
+    height: 29px;
+}
